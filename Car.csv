@@ -1,10 +1,10 @@
 name,year,seats,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,selling_price
 Maruti Swift Dzire VDI,2014,5,145500,Diesel,Individual,Manual,First Owner,23.4 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,450000
-Skoda Rapid 1.5 TDI Ambition,2014,5,120000,Diesel,Individual,Manual,Second Owner,21.14 kmpl,1498 CC,103.52 bhp,250Nm@ 1500-2500rpm,370000
+Skoda Rapid 1.5 TDI Ambition,2014,5,,Diesel,Individual,Manual,Second Owner,21.14 kmpl,1498 CC,103.52 bhp,250Nm@ 1500-2500rpm,370000
 Honda City 2017-2020 EXi,2006,5,140000,Petrol,Individual,Manual,Third Owner,17.7 kmpl,1497 CC,78 bhp,"12.7@ 2,700(kgm@ rpm)",158000
 Hyundai i20 Sportz Diesel,2010,5,127000,Diesel,Individual,Manual,First Owner,23.0 kmpl,1396 CC,90 bhp,22.4 kgm at 1750-2750rpm,225000
 Maruti Swift VXI BSIII,2007,5,120000,Petrol,Individual,Manual,First Owner,16.1 kmpl,1298 CC,88.2 bhp,"11.5@ 4,500(kgm@ rpm)",130000
-Hyundai Xcent 1.2 VTVT E Plus,2017,5,45000,Petrol,Individual,Manual,First Owner,20.14 kmpl,1197 CC,81.86 bhp,113.75nm@ 4000rpm,440000
+Hyundai Xcent 1.2 VTVT E Plus,,5,45000,Petrol,Individual,Manual,First Owner,20.14 kmpl,1197 CC,81.86 bhp,113.75nm@ 4000rpm,440000
 Maruti Wagon R LXI DUO BSIII,2007,5,175000,LPG,Individual,Manual,First Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",96000
 Maruti 800 DX BSII,2001,4,5000,Petrol,Individual,Manual,Second Owner,16.1 kmpl,796 CC,37 bhp,59Nm@ 2500rpm,45000
 Toyota Etios VXD,2011,5,90000,Diesel,Individual,Manual,First Owner,23.59 kmpl,1364 CC,67.1 bhp,170Nm@ 1800-2400rpm,350000
